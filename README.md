@@ -18,9 +18,9 @@ Bu repo benim HTML ve CSS ile yaptığım kişisel web sitemi içeriyor.
 
 Web sitemi aşağıdaki bağlantı üzerinden ziyaret edebilirsiniz:
 
+https://baharbalim.github.io/myblog/
 
-
-\[https://baharbalim.github.io/myblog/](https://baharbalim.github.io/myblog/)
+&nbsp;
 
 
 
